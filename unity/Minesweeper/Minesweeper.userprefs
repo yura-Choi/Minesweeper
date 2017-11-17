@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D5D46573-6585-85E7-CC03-421FBEE2C45A}|">
+  <MonoDevelop.Ide.ItemProperties.Minesweeper PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/InGameController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/InGameController.cs" Line="10" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
