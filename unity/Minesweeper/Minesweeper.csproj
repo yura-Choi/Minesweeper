@@ -253,6 +253,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\AudioController.cs" />
     <Compile Include="Assets\Scripts\InGameController.cs" />
+    <Compile Include="Assets\Scripts\PrefabController.cs" />
     <Compile Include="Assets\Scripts\TitleController.cs" />
   </ItemGroup>
   <ItemGroup>
