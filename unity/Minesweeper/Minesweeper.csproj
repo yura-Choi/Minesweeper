@@ -252,9 +252,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AudioController.cs" />
-    <Compile Include="Assets\Scripts\InGameController.cs" />
-    <Compile Include="Assets\Scripts\PrefabController.cs" />
-    <Compile Include="Assets\Scripts\TitleController.cs" />
+    <Compile Include="Assets\Scripts\InGame\GlobalState.cs" />
+    <Compile Include="Assets\Scripts\InGame\InGameController.cs" />
+    <Compile Include="Assets\Scripts\InGame\ManagePlayState.cs" />
+    <Compile Include="Assets\Scripts\InGame\PrefabController.cs" />
+    <Compile Include="Assets\Scripts\InGame\PrefabTestCode.cs" />
+    <Compile Include="Assets\Scripts\Title\TitleController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Fonts\Lecompte\Lecompte.fnt" />
